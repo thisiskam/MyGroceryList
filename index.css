@@ -3,6 +3,8 @@
     font-family: montserrat;
 }
 
+
+
 h1 {
     text-align: center;
     color: #7CEA9C;
@@ -19,6 +21,7 @@ h2{
     color: #5C5552;
     background-color: #DECBB7;
     margin-top: 40px;
+    border: #5C5552 2px solid;
 }
 
 div {
@@ -43,4 +46,8 @@ ul,li,ol {
 img {
     width: 100%;
     height: 180px;
+}
+
+.list{
+    border: #7CEA9C 2px solid;
 }
