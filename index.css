@@ -46,6 +46,7 @@ ul,li,ol {
 img {
     width: 100%;
     height: 180px;
+    padding: 0px 10px 0px 0px;
 }
 
 .list{
